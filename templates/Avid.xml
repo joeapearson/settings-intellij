@@ -3,12 +3,12 @@
     <variable name="NAME" expression="fileName()" defaultValue="filename" alwaysStopAt="true" />
     <variable name="YEAR" expression="date()" defaultValue="2016" alwaysStopAt="true" />
     <context>
+      <option name="XML" value="false" />
+      <option name="OTHER" value="true" />
       <option name="HTML" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="JAVA_CODE" value="false" />
       <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
     </context>
   </template>
 </templateSet>
