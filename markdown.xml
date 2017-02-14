@@ -1,6 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="jar:file:/C:/Program%20Files%20(x86)/JetBrains/IntelliJ%20IDEA%20171.2822.15/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
     <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" />
   </component>
 </application>
