@@ -1,4 +1,4 @@
-<keymap version="1" name="Joe" parent="$default">
+<keymap version="1" name="Joe win" parent="$default">
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
