@@ -1,7 +1,5 @@
 <templateSet group="Avid">
-  <template name="header" value="/**&#10; * @fileOverview $NAME$&#10; *&#10; * @author Joe Pearson &lt;joe.pearson@avid.com&gt;&#10; * @copyright Copyright $YEAR$ by Avid Technology, Inc.&#10; */&#10;" description="File header" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="fileName()" defaultValue="filename" alwaysStopAt="true" />
-    <variable name="YEAR" expression="date()" defaultValue="2016" alwaysStopAt="true" />
+  <template name="header" value="/**&#10; * @author Joe Pearson &lt;joe.pearson@avid.com&gt;&#10; * @copyright Copyright 2017 by Avid Technology, Inc.&#10; */&#10;" description="File header" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="false" />
       <option name="JAVA_CODE" value="false" />
