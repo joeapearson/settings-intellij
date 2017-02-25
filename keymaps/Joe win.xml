@@ -1,10 +1,30 @@
 <keymap version="1" name="Joe win" parent="$default">
+  <action id="ChangesView.Diff" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Close" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Replace" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
