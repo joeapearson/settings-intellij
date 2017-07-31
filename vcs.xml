@@ -26,7 +26,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/avid/jpearson" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev/avid/dev/avid-iam-services" />
-  </component>
 </application>
