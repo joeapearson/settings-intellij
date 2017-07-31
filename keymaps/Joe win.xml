@@ -17,6 +17,11 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="OverrideMethods" />
   <action id="Replace" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
