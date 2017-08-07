@@ -1,12 +1,8 @@
 <templateSet group="Avid">
-  <template name="header" value="/**&#10; * @author Joe Pearson &lt;joe.pearson@avid.com&gt;&#10; * @copyright Copyright 2017 by Avid Technology, Inc.&#10; */&#10;" description="File header" toReformat="false" toShortenFQNames="true">
+  <template name="header" value="/**&#10; * @copyright Copyright 2017-present by Avid Technology, Inc.&#10; */" description="header" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
     </context>
   </template>
 </templateSet>
